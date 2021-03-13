@@ -2,18 +2,18 @@ module.exports = {
   /** Site MetaData (Required all)*/
   title: `D.log`, 
   description: `Blog Description`,          // (* Required)
-  author: `HAN JISOO`,                         // (* Required)
+  author: `didue`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
   siteUrl: 'https://didue.github.io/didue.github.io',
 
   /** Header */
-  profileImageFileName: '', // include filename extension ex.'profile.jpg'
+  profileImageFileName: 'memoji.jpg', // include filename extension ex.'profile.jpg'
     // The Profile image file is located at path "./images/"
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: 'Enter your information in the "./config.js" file. ',
-  name: 'didue',
+  comment: 'sʏsᴛᴇᴍ.ᴏᴜᴛ.ᴘʀɪɴᴛ("ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ!");',
+  name: 'HAN JISOO',
   company: '',
   location: 'Seoul, Korea',
   email: 'jisoo.han107@gmail.com',
