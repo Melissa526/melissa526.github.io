@@ -1,12 +1,10 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `Title`,                           // (* Required)
+  title: `D.log`, 
   description: `Blog Description`,          // (* Required)
-  author: `Author`,                         // (* Required)
+  author: `HAN JISOO`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://',                      // (* Required)
-    // ex.'https://junhobaik.github.io'
-    // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
+  siteUrl: 'https://didue/github.io',
 
   /** Header */
   profileImageFileName: '', // include filename extension ex.'profile.jpg'
@@ -15,15 +13,15 @@ module.exports = {
 
   /** Home > Bio information*/
   comment: 'Enter your information in the "./config.js" file. ',
-  name: 'User Name',
+  name: 'didue',
   company: '',
-  location: 'Korea',
-  email: '',
-  website: 'https://github.com/junhobaik/junhobaik.github.io',           // ex.'https://junhobaik.github.io'
+  location: 'Seoul, Korea',
+  email: 'jisoo.han107@gmail.com',
+  website: 'https://didue.github.io',           // ex.'https://junhobaik.github.io'
   linkedin: '',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
   facebook: '',                                                          // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
-  instagram: '',                                                         // ex.'https://www.instagram.com/junhobaik'
-  github: '',                                                            // ex.'https://github.com/junhobaik'
+  instagram: 'https://instagram.com/d_diue',                                                         // ex.'https://www.instagram.com/junhobaik'
+  github: 'https://didue.github.io',                                                            // ex.'https://github.com/junhobaik'
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
