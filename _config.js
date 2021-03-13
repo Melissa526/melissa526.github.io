@@ -4,7 +4,7 @@ module.exports = {
   description: `Blog Description`,          // (* Required)
   author: `HAN JISOO`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://didue/github.io',
+  siteUrl: 'https://didue.github.io',
 
   /** Header */
   profileImageFileName: '', // include filename extension ex.'profile.jpg'
